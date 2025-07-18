@@ -145,6 +145,22 @@ You should see the **Student List** page.
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Student List Page
+![Student List](screenshots/home-page.png)            
+
+### 🔹 Add Student Page
+![Add Student](screenshots/add-student.png)
+
+### 🔹 Edit Student Page
+![Edit Student](screenshots/edit-student.png)
+
+### 🔹 Student List Page
+![List Of Student](screenshots/student-list.png)
+
+---
+
 ## 📜 License
 
 This project is for educational purposes. Use freely for learning and enhancement.
